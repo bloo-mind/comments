@@ -1,3 +1,3 @@
 # comments
-This repository hosts the reader-comment discussions for the books and essays on **bloo-mind.ai**.
+This repository hosts the reader comments on the books and essays at **bloo-mind.ai**.
 See the canonical sites for the books and essays themselves.
